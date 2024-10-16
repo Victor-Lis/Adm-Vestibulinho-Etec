@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "adm-vestibulinho-etec",
+    "name": "Vestibulinho ETEC",
     "slug": "adm-vestibulinho-etec",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#202020"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -20,11 +20,17 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "backgroundColor": "#202020"
+      },
+      "package": "com.dev_victor.adm_vestibulinho_etec"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e0623845-e47c-485d-9a4f-e65cdbd4ff99"
+      }
     }
   }
 }
