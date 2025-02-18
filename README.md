@@ -76,5 +76,5 @@ Facilitar a divulgação dos cursos técnicos da ETEC através de uma plataforma
 
 ## 👨‍💻 Autor
 
-Desenvolvido com ❤️ por [Victor Lis](https://www.linkedin.com/in/victor-lis-bronzo)
+Desenvolvido com ❤️ por [Victor Lis](https://www.linkedin.com/in/victor-lis-bronzo) | 
 Desenvolvido com 💛 para a Etec Professor Carmine Biagio Tundisi.
