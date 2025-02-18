@@ -1,6 +1,8 @@
 # 📱 Vestibulinho ETEC - Aplicativo Administrativo
 
-![ETEC Logo](./assets/icon.png)
+<div align="center">
+  <img src="./assets/icon.png" />
+</div>
 
 Aplicativo desenvolvido para auxiliar na divulgação da ETEC, permitindo o gerenciamento e compartilhamento de conteúdos relacionados aos cursos técnicos.
 
